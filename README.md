@@ -1,3 +1,6 @@
+> # This is an experimental repository for internal development!
+> ### Feel free to use this is as a reference for your own development, but drastic changes to this repository may take place without a notice or documentation, so direct use of the scripts provided in this repository is not adviced
+
 <div>
 
 # VUdon - Vehicle Controls [![GitHub](https://img.shields.io/github/license/Varneon/VUdon-VehicleControls?color=blue&label=License&style=flat)](https://github.com/Varneon/VUdon-VehicleControls/blob/main/LICENSE) [![GitHub Repo stars](https://img.shields.io/github/stars/Varneon/VUdon-VehicleControls?style=flat&label=Stars)](https://github.com/Varneon/VUdon-VehicleControls/stargazers) [![GitHub all releases](https://img.shields.io/github/downloads/Varneon/VUdon-VehicleControls/total?color=blue&label=Downloads&style=flat)](https://github.com/Varneon/VUdon-VehicleControls/releases) [![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Varneon/VUdon-VehicleControls?color=blue&label=Release&sort=semver&style=flat)](https://github.com/Varneon/VUdon-VehicleControls/releases/latest)
