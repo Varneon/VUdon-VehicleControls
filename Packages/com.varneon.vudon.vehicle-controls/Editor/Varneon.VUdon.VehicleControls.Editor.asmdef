@@ -1,5 +1,5 @@
 {
-    "name": "Varneon.VUdon.RepositoryTemplate.Editor",
+    "name": "Varneon.VUdon.VehicleControls.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
